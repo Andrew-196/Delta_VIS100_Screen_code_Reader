@@ -33,7 +33,7 @@ https://www.deltronic.ru/taxonomy/term/167?ysclid=mb25qte3ov718286808
 
 ![пример](https://github.com/user-attachments/assets/6f0090f2-bf4a-466c-b208-6d00b83acebc)
 
-# Варианты использования
+# Код можно переделать для скриншотов:
 • Скрин всех тригеров (Total triggered)
 
 • Скрин только распознаных кодов (Total Pass)
@@ -41,7 +41,8 @@ https://www.deltronic.ru/taxonomy/term/167?ysclid=mb25qte3ov718286808
 • Скрин только не распознаных кодов (Total Fail)
 
 
-
+# Для разработки использовались библиотеки/технологии:
+```pytesseract``` ```ImageGrab``` ```pyautogui```
 
 
 
